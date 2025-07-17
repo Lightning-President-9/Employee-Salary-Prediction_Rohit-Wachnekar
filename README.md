@@ -33,6 +33,6 @@ This project predicts whether an employee's salary is **`<=50K`** or **`>50K`** 
 - **Accuracy**: 85.61%
 - **Evaluation Metrics**:
 -           precision    recall  f1-score
-   <=50K       0.88      0.93      0.91
-    >50K       0.75      0.62      0.68
+-   <=50K       0.88      0.93      0.91
+-    >50K       0.75      0.62      0.68
 
