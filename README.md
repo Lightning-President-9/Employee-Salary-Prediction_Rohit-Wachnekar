@@ -21,10 +21,10 @@ This project predicts whether an employee's salary is **`<=50K`** or **`>50K`** 
 
 ---
 
-## Dataset
+## Dataset and PKL Files
 - Dataset used: **Adult Income Dataset**
-- File: `adult 3.csv`
-- Source: [Download Here](https://github.com/Lightning-President-9/Employee-Salary-Prediction_Rohit-Wachnekar/blob/main/adult%203.csv)
+- Dataset: [adult 3.csv](https://github.com/Lightning-President-9/Employee-Salary-Prediction_Rohit-Wachnekar/blob/main/adult%203.csv)
+- Pre-trained Model & Encoders: [pkl_object.zip](https://github.com/Lightning-President-9/Employee-Salary-Prediction_Rohit-Wachnekar/blob/main/pkl_object.zip)  
 
 ---
 
@@ -32,3 +32,7 @@ This project predicts whether an employee's salary is **`<=50K`** or **`>50K`** 
 - **Algorithm**: Random Forest Classifier
 - **Accuracy**: 85.61%
 - **Evaluation Metrics**:
+-           precision    recall  f1-score
+   <=50K       0.88      0.93      0.91
+    >50K       0.75      0.62      0.68
+
